@@ -58,10 +58,12 @@ $ sudo apt install wslu
 
 Within the working directory, checkout the four repositories as follows:
 
+```
 $ git clone git@github.com:crsq-dev/crsq-heap.git
 $ git clone git@github.com:crsq-dev/crsq-arithmetic.git
 $ git clone git@github.com:crsq-dev/crsq-main.git
 $ git clone git@github.com:crsq-dev/crsq-papers.git
+```
 
 ### Step 3 install python dependencies
 
